@@ -20,7 +20,7 @@ public:
 	friend int Length(const BigInt &);
 	int operator[](const int)const;
 
-			/* * * * Operator Overloading * * * */
+			
 
 	//Direct assignment
 	BigInt &operator=(const BigInt &);
